@@ -1,0 +1,30 @@
+{
+  "name": "psd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs-extra": "^10.0.0",
+    "lodash": "^2.4.2",
+    "optimist": "^0.6.1",
+    "psd": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/colors": "^1.2.1",
+    "@types/fs-extra": "^9.0.11",
+    "@types/gulp-sourcemaps": "^0.0.34",
+    "@types/lodash": "^4.14.168",
+    "gyi": "^1.0.7",
+    "istanbul": "^0.4.5",
+    "jshint": "^2.12.0",
+    "mocha": "^8.4.0",
+    "rimraf": "^3.0.2",
+    "should": "^13.2.3"
+  }
+}
